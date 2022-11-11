@@ -1017,7 +1017,7 @@ local defaults; do
         btncolor       = Color3.fromRGB(25, 25, 25);
         dropcolor      = Color3.fromRGB(25, 25, 25);
         sectncolor     = Color3.fromRGB(25, 25, 25);
-        bordercolor    = Color3.fromRGB(15, 0, 50);
+        bordercolor    = Color3.fromRGB(85, 0, 155);
 
         font           = Enum.Font.SourceSans;
         titlefont      = Enum.Font.Code;
@@ -1030,8 +1030,8 @@ local defaults; do
 
         strokecolor    = Color3.fromRGB(0, 0, 0);
 
-        textcolor      = Color3.fromRGB(255, 255, 255);
-        titletextcolor = Color3.fromRGB(255, 255, 255);
+        textcolor      = Color3.fromRGB(140, 115, 250);
+        titletextcolor = Color3.fromRGB(220, 150, 255);
 
         placeholdercolor = Color3.fromRGB(255, 255, 255);
         titlestrokecolor = Color3.fromRGB(0, 0, 0);
