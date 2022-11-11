@@ -1011,13 +1011,13 @@ local defaults; do
         topcolor       = Color3.fromRGB(30, 30, 30);
         titlecolor     = Color3.fromRGB(220, 150, 255);
         
-        underlinecolor = Color3.fromRGB(125, 0, 255);
+        underlinecolor = Color3.fromRGB(145, 0, 255);
         bgcolor        = Color3.fromRGB(35, 35, 35);
         boxcolor       = Color3.fromRGB(35, 35, 35);
         btncolor       = Color3.fromRGB(25, 25, 25);
         dropcolor      = Color3.fromRGB(25, 25, 25);
         sectncolor     = Color3.fromRGB(25, 25, 25);
-        bordercolor    = Color3.fromRGB(85, 0, 155);
+        bordercolor    = Color3.fromRGB(75, 0, 135);
 
         font           = Enum.Font.SourceSans;
         titlefont      = Enum.Font.Code;
