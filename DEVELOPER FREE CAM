@@ -465,4 +465,3 @@ do
 
 	ContextActionService:BindActionAtPriority("FreecamToggle", HandleActivationInput, true, TOGGLE_INPUT_PRIORITY, FREECAM_MACRO_KB[#FREECAM_MACRO_KB])
 end
-end)
